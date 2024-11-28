@@ -149,4 +149,7 @@ body {
 body header .main_div .con1 {
   display: flex;
   justify-content: space-between;
+}
+body header .main_div .con1 .d2 .name {
+  text-align: center;
 }/*# sourceMappingURL=global.css.map */

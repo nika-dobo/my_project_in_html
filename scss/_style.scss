@@ -5,6 +5,11 @@ body {
       .con1 {
         display: flex;
         justify-content: space-between;
+        .d2 {
+          .name {
+            text-align: center;
+          }
+        }
       }
     }
   }
