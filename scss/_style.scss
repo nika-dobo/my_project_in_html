@@ -1,0 +1,11 @@
+body {
+  @include margin;
+  header {
+    .main_div {
+      .con1 {
+        display: flex;
+        justify-content: space-between;
+      }
+    }
+  }
+}
